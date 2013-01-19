@@ -150,7 +150,7 @@
   </Property>
   <Property>
     <name>db$local$entries-Index</name>
-    <value xsi:type="xsd:int">1</value>
+    <value xsi:type="xsd:int">0</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
@@ -185,13 +185,13 @@
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSlicePartName</name>
-    <value xsi:type="xsd:string">MoForm-Detail-AsLexemeForm</value>
+    <value xsi:type="xsd:string">LexSense-Detail-DefinitionAllA</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
   <Property>
     <name>db$local$lexicon$lexiconEdit$CurrentSliceObjectGuid</name>
-    <value xmlns:q1="http://microsoft.com/wsdl/types/" xsi:type="q1:guid">215ec98d-396f-4db8-92e2-d68a27161a71</value>
+    <value xmlns:q1="http://microsoft.com/wsdl/types/" xsi:type="q1:guid">ed6054a8-6b13-4b5b-af19-ac6715694a71</value>
     <doPersist>true</doPersist>
     <doDispose>false</doDispose>
   </Property>
